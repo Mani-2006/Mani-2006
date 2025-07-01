@@ -47,6 +47,10 @@
 
 ###
 
+<p align="left">Exploring tools in Kali</p>
+
+###
+
 <p align="left">Exposing myself to new fields of ML and DL</p>
 
 ###
