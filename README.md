@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I am Ken Mani Binu</h1>
+<h1 align="left">Hi 👋, Ken Mani here</h1>
 
 ###
 
@@ -16,6 +16,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+
 </div>
 
 ###
@@ -43,7 +49,7 @@
 
 ###
 
-<p align="left">Currently working on a Campus Dev Project</p>
+<p align="left">Currently working on a Campus Dev Project inspired by lost and found concept</p>
 
 ###
 
@@ -56,5 +62,11 @@
 ###
 
 <p align="left">Trying for Internship on my domain in Networking and Cybersecurity at Purdue University, Indianapolis, USA</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
