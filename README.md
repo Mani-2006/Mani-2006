@@ -49,6 +49,10 @@
 
 ###
 
+<p align="left">Completing my Deep Learning Specialization (3/5) by DeepLearning AI by Andrew Ng</p>
+
+###
+
 <p align="left">Currently working on a Campus Dev Project inspired by lost and found concept</p>
 
 ###
