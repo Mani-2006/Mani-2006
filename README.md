@@ -41,6 +41,10 @@
 
 ###
 
+<p align="left">Trying for Internship on my domain in Networking and Cybersecurity at Purdue University, Indianapolis, USA</p>
+
+###
+
 <p align="left">Having a BS degree from IIT Madras in Electronics</p>
 
 ###
@@ -53,7 +57,11 @@
 
 ###
 
-<p align="left">Currently working on a Campus Dev Project inspired by lost and found concept</p>
+<p align="left">Participated in DSolve '25 Hackathon</p>
+
+###
+
+<p align="left">Currently working on a Campus Dev Project inspired by Lost and Found concept naming Back2you</p>
 
 ###
 
@@ -62,10 +70,6 @@
 ###
 
 <p align="left">Exposing myself to new fields of ML and DL</p>
-
-###
-
-<p align="left">Trying for Internship on my domain in Networking and Cybersecurity at Purdue University, Indianapolis, USA</p>
 
 ###
 
