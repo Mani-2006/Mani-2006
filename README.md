@@ -40,17 +40,11 @@
 
 <p align="left">Pursuing B.Tech at College of Engineering, Trivandrum</p>
 
-###
-
-<p align="left">Trying for Internship on my domain in Networking and Cybersecurity at Purdue University, Indianapolis, USA</p>
 
 ###
 
 <p align="left">Having a BS degree from IIT Madras in Electronics</p>
 
-###
-
-<p align="left">Would complete my BS Diploma in Data Science in IIT Madras</p>
 
 ###
 
@@ -62,20 +56,12 @@
 
 ###
 
-<p align="left">Currently working on a Campus Dev Project inspired by Lost and Found concept naming Back2you</p>
+<p align="left">Currently working on a Campus Dev Project inspired by Lost and Found concept naming LISA</p>
 
 ###
 
 <p align="left">Exploring tools in Kali</p>
 
-###
-
-<p align="left">Exposing myself to new fields of ML and DL</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
