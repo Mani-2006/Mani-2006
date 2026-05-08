@@ -56,12 +56,3 @@
 
 ###
 
-<p align="left">Currently working on a Campus Dev Project inspired by Lost and Found concept naming LISA</p>
-
-###
-
-<p align="left">Exploring tools in Kali</p>
-
-
-###
-
